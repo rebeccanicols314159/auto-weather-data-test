@@ -17,18 +17,17 @@ logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
 
 try:
-    SOME_SECRET = os.environ["SOME_SECRET"]
+    API_KEY = os.environ["API_KEY"]
 except KeyError:
-    SOME_SECRET = "Token not available!"
+    API_KEY = "Token not available!"
     #logger.info("Token not available!")
     #raise
 
-
 if __name__ == "__main__":
-    logger.info(f"Token value: {SOME_SECRET}")
+    logger.info(f"Token value: {API_KEY}")
 
-    r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
+    r = requests.get('https://api.worldweatheronline.com/premium/v1/weather.ashx?key={API_KEY}&q=CA13&num_of_days=1&format=json')
     if r.status_code == 200:
         data = r.json()
         temperature = data["forecast"]["temp"]
-        logger.info(f'Weather in Berlin: {temperature}')
+        logger.info(f'Temperature {r["current_condition"][0]["temp_C"]}°C')

@@ -26,7 +26,7 @@ except KeyError:
 if __name__ == "__main__":
     logger.info(f"Token value: HIDDEN!")
 
-    r = requests.get('https://api.worldweatheronline.com/premium/v1/weather.ashx?key={API_KEY}&q=CA13&num_of_days=1&format=json')
+    r = requests.get(f'https://api.worldweatheronline.com/premium/v1/weather.ashx?key={API_KEY}&q=CA13&num_of_days=1&format=json')
     if r.status_code == 200:
         data = r.json()
         temperature = data["forecast"]["temp"]

@@ -32,4 +32,4 @@ if __name__ == "__main__":
         temperature = data["forecast"]["temp"]
         logger.info(f'Temperature {r["current_condition"][0]["temp_C"]}°C')
     else:
-        print(f'Status code: {r.status_code}')
+        logger.info(f'Status code: {r.status_code}')

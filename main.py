@@ -33,3 +33,4 @@ if __name__ == "__main__":
         logger.info(f'Temperature {r["current_condition"][0]["temp_C"]}°C')
     else:
         logger.info(f'Status code: {r.status_code}')
+        logger.info(f'URL: {r}')

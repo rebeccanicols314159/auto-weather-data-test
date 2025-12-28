@@ -1,6 +1,6 @@
 # ☁️ Auto weather data test
 
->*Repo used to test functionality to collect weather data from API.*
+*Repo used to test functionality to collect weather data from API.*
 
 
 

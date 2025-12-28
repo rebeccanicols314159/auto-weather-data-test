@@ -1,8 +1,7 @@
-# 📦 Auto weather data test
+# ☁️ Auto weather data test
 
-Repo used to test functionality to collect weather data from API.
+>*Repo used to test functionality to collect weather data from API.*
 
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
 
 
 ## 🌟 Functionality
@@ -31,7 +30,7 @@ This system requires Github actions so will not work on a local system.
 
 Requires API key for World Weather Online ( https://www.worldweatheronline.com/weather-api/api/api-t-and-c.aspx)
 
-This is stored as an actions secret known as "API_KEY"
+This is stored as an actions secret named "API_KEY"
 
 ## 💭 Contribution
 

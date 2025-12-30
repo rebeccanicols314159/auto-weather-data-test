@@ -1,3 +1,3 @@
-* File storage
+# File storage
 
-** The files are stored using the following:
+## The files are stored using the following:

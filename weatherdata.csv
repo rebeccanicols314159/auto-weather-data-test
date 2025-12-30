@@ -9,10 +9,10 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-03:46 AM,0,33,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,6,9,50,NE,0.0,0.0,100,10,6,1034,31,0
+04:27 AM,0,32,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly cloudy,6,10,47,NE,0.0,0.0,100,10,6,1035,31,75
 2025-12-30,3,38,0,33,08:37 AM,03:55 PM,12:12 PM,03:55 AM,Waxing Gibbous,74
 2025-12-30,0,3,38,6,9,59,ENE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,90,10,6,1035,31,10,3,38,2,35,1,33,10,17,1,33,0,86,0,0,92,0,0,0,0,0
-2025-12-30,300,0,33,6,9,50,NE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,100,10,6,1034,31,0,2,35,-0,31,-1,30,12,19,-1,30,0,93,0,0,89,10,0,0,0,0
+2025-12-30,300,2,35,6,9,50,NE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,86,10,6,1036,31,3,2,35,-0,31,-1,30,12,19,-1,30,0,93,0,0,89,10,0,0,0,0
 2025-12-30,600,1,33,6,9,59,ENE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,86,10,6,1037,31,15,1,33,-1,30,-2,28,11,17,-2,28,0,92,0,0,92,15,0,0,0,0
 2025-12-30,900,1,33,4,7,56,ENE,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,87,10,6,1039,31,37,1,33,-1,30,-2,29,8,13,-2,29,0,88,0,44,84,15,0,0,0,0
 2025-12-30,1200,3,37,4,7,32,NNE,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,80,10,6,1039,31,48,3,37,-0,32,1,33,6,10,1,33,0,85,0,36,81,0,0,0,0,0

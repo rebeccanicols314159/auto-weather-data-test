@@ -9,7 +9,7 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-10:57 AM,0,33,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly cloudy,8,13,247,WSW,0.0,0.0,100,10,6,1026,30,75
+11:27 AM,0,33,143,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png,Mist,9,14,259,W,0.0,0.0,100,4,2,1025,30,100
 2025-12-31,5,42,1,33,08:37 AM,03:56 PM,12:34 PM,05:34 AM,Waxing Gibbous,84
 2025-12-31,0,1,33,2,4,241,WSW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,79,10,6,1036,31,0,1,33,-3,27,-0,31,5,8,-0,31,0,86,0,0,88,15,0,0,0,0
 2025-12-31,300,1,33,5,8,219,SW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,79,10,6,1034,31,0,1,33,-2,28,-2,29,9,15,-2,29,0,88,0,0,87,15,0,0,0,0

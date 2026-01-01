@@ -1,6 +1,6 @@
 # ☁️ Auto weather data test
 
-*Repo used to test functionality to collect weather data from API.*
+*Repo used to collect weather data from API.*
 
 
 
@@ -34,7 +34,7 @@ This is stored as an actions secret named "API_KEY"
 
 ## 💭 Contribution
 
-This is a part of the balloon project and is a repo designed for testing purposes
+This is a part of the balloon project and is a repo designed for collection of weather data
 
-Link to full repo: 
+Link to main repo: 
 https://github.com/jackt77/weatherBalloonProject/tree/main

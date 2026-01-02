@@ -1,6 +1,7 @@
 import logging
 import logging.handlers
 import os
+import datetime
 
 import requests
 import WeatherDataAnalysis as wda
@@ -26,7 +27,7 @@ except KeyError:
     #raise
 
 if __name__ == "__main__":
-    logger.info(f"Token value: HIDDEN!")
+    logger.info(f"Program started at {datetime.datetime.now()}")
 
     wda.makedatafile()
     sf.sort_files()

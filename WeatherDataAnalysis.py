@@ -14,7 +14,7 @@ def intofile(fname,dta):
     with open(fname,"w") as f:
         tofile = []
         for i in range(len(wanteddata)):
-            tofile.append(f'{wanteddata[i]} {dta[i]}')
+            tofile.append(f'{wanteddata[i]},{dta[i]}')
         tofile = ("\n".join(tofile))
         f.write(tofile)
 
@@ -30,6 +30,6 @@ def makedatafile():
     intofile(filename,wanted)
 
 #Testing
-#print(data)
-#print(wanted)
-#print(filename)
+print(data)
+print(wanteddata)
+print(selectdata(data))

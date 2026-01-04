@@ -23,11 +23,12 @@ def getinfo(fders):
 
 def makedict(info):
     columns = ['date','observation_time','temp_C', 'windspeedKmph', 'winddirDegree', 'precipMM', 'pressureMB', 'visibilityKm', 'cloudcover']
-    infodict = {col: [] for col in columns}
-
-    for entry in info:
-        for col in columns:
-            infodict[col].append(entry[columns.index(col)])
+    infodict = dict()
+    for i in columns:
+        entries = []
+        for j in info:
+            entries.append(j[j.index(i)+1])
+        infodict.update({i:tuple((entries))})
     return infodict
         
 

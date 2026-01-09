@@ -1,4 +1,4 @@
-# ☁️ Auto weather data test
+# ☁️ Auto weather data
 
 *Repo used to collect weather data from API for Balloon Project 2025-2027.*
 

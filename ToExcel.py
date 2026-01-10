@@ -16,7 +16,7 @@ def getinfo(fders):
         for file in os.listdir():
             with open(file) as f:
                 if 'weather-data' in file:
-                    sdate = f.read().split()
+                    sdate = f.read().replace('\n', ',').split(',')
                     sdate = ['date',folder[13:]] + sdate
                     flist.append(sdate)
     return flist

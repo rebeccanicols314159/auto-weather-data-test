@@ -9,10 +9,10 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-02:19 AM,0,32,143,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png,Mist,7,12,96,E,0.0,0.0,100,1,0,1009,30,50
+03:40 AM,3,38,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,8,13,93,E,0.0,0.0,100,3,1,1009,30,100
 2026-01-17,6,42,3,37,08:25 AM,04:21 PM,08:24 AM,02:19 PM,Waning Crescent,3
 2026-01-17,0,3,37,8,12,91,E,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,87,10,6,1010,30,47,3,37,1,34,-0,32,16,26,-0,32,0,85,0,34,89,0,0,0,0,0
-2026-01-17,300,3,37,8,13,93,E,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,87,10,6,1011,30,48,3,37,1,34,-1,31,16,26,-1,31,0,92,0,31,77,0,0,0,0,0
+2026-01-17,300,3,38,8,13,93,E,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast,0.0,0.0,100,3,1,1009,30,100,3,37,1,34,-1,31,16,26,-1,31,0,92,0,31,77,0,0,0,0,0
 2026-01-17,600,3,37,9,14,85,E,119,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Cloudy ,0.0,0.0,89,10,6,1012,30,72,3,37,1,34,-1,30,19,30,-1,30,0,87,0,93,9,0,0,0,0,0
 2026-01-17,900,4,39,9,15,82,E,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,92,10,6,1014,30,100,4,39,3,37,0,33,18,29,0,33,69,0,0,89,0,0,0,0,0,0
 2026-01-17,1200,5,41,8,13,82,E,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.1,0.0,93,10,6,1015,30,100,5,41,4,39,2,35,13,21,2,35,100,0,0,86,0,0,0,0,0,0

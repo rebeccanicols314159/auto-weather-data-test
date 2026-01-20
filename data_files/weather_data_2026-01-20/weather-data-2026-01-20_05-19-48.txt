@@ -1,0 +1,8 @@
+observation_time,None
+temp_C,None
+windspeedKmph,None
+winddirDegree,None
+precipMM,None
+pressureMB,None
+visibilityKm,None
+cloudcover,None

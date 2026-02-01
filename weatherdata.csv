@@ -9,7 +9,7 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:56 PM,2,36,143,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png,Mist,4,6,56,NE,0.0,0.0,100,3,1,999,30,0
+09:34 PM,2,36,248,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0007_fog.png,Fog,3,5,60,ENE,0.0,0.0,100,5,3,1000,30,0
 2026-02-01,7,45,5,42,08:03 AM,04:51 PM,04:11 PM,08:16 AM,Full Moon,99
 2026-02-01,0,6,43,7,12,123,ESE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.0,0.0,88,10,6,998,29,88,6,43,4,40,4,38,12,19,4,38,62,0,0,91,0,0,0,0,0,0
 2026-02-01,300,5,42,6,10,158,SSE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.1,0.0,92,10,6,998,29,100,5,42,4,40,3,38,11,18,3,38,100,0,0,92,0,0,0,0,0,0
@@ -18,4 +18,4 @@
 2026-02-01,1200,7,45,5,8,175,S,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.1,0.0,87,10,6,999,29,100,7,45,5,41,6,42,7,11,6,42,100,0,0,93,0,0,0,0,0,0
 2026-02-01,1500,7,44,0,0,6,N,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.1,0.0,92,10,6,999,29,100,7,44,5,42,7,44,0,1,7,44,100,0,0,89,0,0,0,0,0,0
 2026-02-01,1800,6,43,4,6,59,ENE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.1,0.0,92,10,6,1000,30,100,6,43,5,41,5,41,6,10,5,41,100,0,0,89,0,0,0,0,0,0
-2026-02-01,2100,6,43,3,5,60,ENE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.0,0.0,91,10,6,1001,30,100,6,43,5,40,5,42,5,8,5,42,88,0,0,86,0,0,0,0,0,0
+2026-02-01,2100,2,36,3,5,60,ENE,248,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0007_fog.png,Fog,0.0,0.0,100,5,3,1000,30,0,6,43,5,40,5,42,5,8,5,42,88,0,0,86,0,0,0,0,0,0

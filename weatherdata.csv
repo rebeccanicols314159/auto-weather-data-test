@@ -9,11 +9,11 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-05:30 AM,7,45,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,2,4,96,E,0.0,0.0,71,10,6,1021,30,4
+06:53 AM,8,47,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,2,4,86,E,0.0,0.0,71,10,6,1021,30,4
 2026-04-25,14,57,7,45,05:48 AM,08:36 PM,01:13 PM,04:06 AM,Waxing Gibbous,60
 2026-04-25,0,9,48,1,2,101,ESE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,79,10,6,1023,30,5,9,48,6,42,9,48,2,4,9,48,0,89,0,0,89,0,0,0,0,0
 2026-04-25,300,8,46,1,2,98,E,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,76,10,6,1021,30,4,8,46,4,39,8,46,2,4,8,46,0,88,0,0,92,0,0,0,0,0
-2026-04-25,600,7,45,2,4,96,E,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,71,10,6,1021,30,4,7,45,2,36,7,45,4,7,7,45,0,88,0,0,90,0,0,0,0,0
+2026-04-25,600,7,45,2,3,96,E,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,71,10,6,1021,30,4,7,45,2,36,7,45,4,7,7,45,0,88,0,0,90,0,0,0,0,0
 2026-04-25,900,11,52,1,2,332,NNW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,67,10,6,1021,30,4,11,52,5,42,11,52,2,3,11,52,0,87,0,0,90,0,0,0,0,0
 2026-04-25,1200,14,56,3,5,301,WNW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,60,10,6,1021,30,18,14,56,6,43,14,57,4,7,14,57,0,84,0,0,90,0,0,0,0,0
 2026-04-25,1500,14,57,5,8,281,W,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,63,10,6,1021,30,100,14,57,7,44,14,57,7,11,14,57,0,87,0,84,7,0,0,0,0,0

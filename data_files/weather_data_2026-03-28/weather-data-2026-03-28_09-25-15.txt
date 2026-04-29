@@ -1,0 +1,8 @@
+observation_time,09:25 AM
+temp_C,5
+windspeedKmph,30
+winddirDegree,290
+precipMM,0.1
+pressureMB,1022
+visibilityKm,10
+cloudcover,81

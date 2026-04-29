@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weather Dashboard</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+
+  <h2>Weather Data Dashboard</h2>
+
+  <label>Select variables:</label><br>
+  <select id="variables" multiple size="6">
+    <option value="temp_C">Temperature (°C)</option>
+    <option value="windspeedKmph">Wind Speed (km/h)</option>
+    <option value="pressureMB">Pressure (mb)</option>
+    <option value="cloudcover">Cloud Cover (%)</option>
+    <option value="visibilityKm">Visibility (km)</option>
+    <option value="precipMM">Precipitation (mm)</option>
+  </select>
+
+  <br><br>
+  <button onclick="updateGraph()">Update Graph</button>
+
+  <div id="graph" style="width:100%;max-width:1000px;"></div>
+
+  <script>
+    let globalData = [];
+
+    // Load data
+    fetch("data.json")
+      .then(res => res.json())
+      .then(data => {
+        globalData = data;
+        updateGraph(); // initial plot
+      });
+
+    function updateGraph() {
+      const selected = Array.from(document.getElementById("variables").selectedOptions)
+                            .map(opt => opt.value);
+
+      const traces = selected.map(variable => ({
+        x: globalData.map(d => d.time),
+        y: globalData.map(d => d[variable]),
+        mode: "lines",
+        name: variable
+      }));
+
+      Plotly.newPlot("graph", traces, {
+        margin: { t: 30 },
+        xaxis: { title: "Time" },
+        yaxis: { title: "Value" }
+      });
+    }
+  </script>
+
+</body>
+</html>

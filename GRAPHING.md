@@ -2,7 +2,7 @@
 
 This project visualises weather data collected over time and stored as `.txt` files. The data is processed into a single structured dataset and displayed using an interactive web dashboard.
 
-**This file, alongside much of the code and structure in this section of the project, was written by ChatGPT**
+**This file, alongside much of the code and structure in this section of the project, was written by ChatGPT.**
 
 ---
 

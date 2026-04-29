@@ -10,6 +10,7 @@
 - Takes data (default from postcode CA13) in CSV format every 15 minutes (detached from hour due to high action traffic)
 - Creates file every 15 minutes with data
 - Uses os python module to sort files by day
+- Displays data as a series of graphs (see [GRAPHING.md](./GRAPHING.md))
 
 
 ## ℹ️ Data included

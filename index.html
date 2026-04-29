@@ -38,11 +38,20 @@
       const selected = Array.from(document.getElementById("variables").selectedOptions)
                             .map(opt => opt.value);
 
+      const xaxislabels = {
+        temp_C: "Temperature (°C)",
+        windspeedKmph: "Wind Speed (km/h)",
+        pressureMB: "Pressure (mb)",
+        cloudcover: "Cloud Cover (%)",
+        visibilityKm: "Visibility (km)",
+        precipMM: "Precipitation (mm)"
+      };
+
       const traces = selected.map(variable => ({
         x: globalData.map(d => d.time),
         y: globalData.map(d => d[variable]),
         mode: "lines",
-        name: variable
+        name: xaxislabels[variable]
       }));
 
       Plotly.newPlot("graph", traces, {

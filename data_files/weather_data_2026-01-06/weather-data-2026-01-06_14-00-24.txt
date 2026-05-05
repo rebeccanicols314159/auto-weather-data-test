@@ -1,8 +1,8 @@
-observation_time 02:00 PM
-temp_C 1
-windspeedKmph 32
-winddirDegree 222
-precipMM 0.4
-pressureMB 1005
-visibilityKm 8
-cloudcover 100
+observation_time,02:00 PM
+temp_C,1
+windspeedKmph,32
+winddirDegree,222
+precipMM,0.4
+pressureMB,1005
+visibilityKm,8
+cloudcover,100

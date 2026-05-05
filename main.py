@@ -6,6 +6,7 @@ import datetime
 import requests
 import WeatherDataAnalysis as wda
 import Sort_file as sf
+from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
@@ -18,6 +19,8 @@ logger_file_handler = logging.handlers.RotatingFileHandler(
 formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
+
+load_dotenv()
 
 try:
     API_KEY = os.environ["API_KEY"]

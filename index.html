@@ -47,19 +47,36 @@
         precipMM: "Precipitation (mm)"
       };
 
+      const yaxislabels = {
+        temp_C: "y1",
+        windspeedKmph: "y2",
+        pressureMB: "y3",
+        cloudcover: "y4",
+        visibilityKm: "y5",
+        precipMM: "y6"
+      };
+
       const traces = selected.map(variable => ({
         x: globalData.map(d => d.time),
         y: globalData.map(d => d[variable]),
         mode: "lines",
-        name: xaxislabels[variable]
+        name: xaxislabels[variable],
+        yaxis: yaxislabels[variable]
       }));
 
-      Plotly.newPlot("graph", traces, {
+      const layout = {
         margin: { t: 30 },
         xaxis: { title: "Time" },
-        yaxis: { title: "Value" }
-      });
-    }
+        yaxis: { title: "Temperature (°C)" },
+        yaxis2: { title: "Wind Speed (km/h)", overlaying: "y", side: "right" },
+        yaxis3: { title: "Pressure (mb)", overlaying: "y", side: "right" , position: 0.9},
+        yaxis4: { title: "Cloud Cover (%)", overlaying: "y", side: "left", position: 0.1 },
+        yaxis5: { title: "Visibility (km)", overlaying: "y", side: "right", position: 0.8 },
+        yaxis6: { title: "Precipitation (mm)", overlaying: "y", side: "left", position: 0.2 }
+      };
+
+      Plotly.newPlot("graph", traces, layout);
+      };
   </script>
 
 </body>

@@ -26,6 +26,5 @@ Consists of a python script:
 
 ## To do:
 
-- Find weather data from closest time (python)
-- Collect as json
+- Collect as json all data from each timestamp.
 - Visualise - plotly (js/html?)

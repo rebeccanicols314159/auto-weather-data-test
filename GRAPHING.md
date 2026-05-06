@@ -24,33 +24,6 @@ This project visualises weather data collected over time and stored as `.txt` fi
 /index.html           # Main dashboard
 ```
 
----
-
-## 📥 Data Format
-
-Each raw data file is stored as key-value pairs:
-
-```
-observation_time,05:52 PM
-temp_C,3
-windspeedKmph,9
-winddirDegree,77
-precipMM,0.0
-pressureMB,1032
-visibilityKm,10
-cloudcover,100
-```
-
-Filenames contain the timestamp:
-
-```
-weather-data-2025-12-28_17-51-36.txt
-```
-
-The timestamp is extracted from the filename during processing.
-
----
-
 ## ⚙️ Data Processing
 
 Raw `.txt` files are converted into a single `data.json` file using a script.
@@ -105,7 +78,7 @@ To update the dashboard:
 
 ## 🚀 Future Improvements
 
-* Automatic data processing (GitHub Actions)
+* Automatic data processing (GitHub Actions) - see new branch
 * Date range filtering
 * Live updating without refresh
 * Improved UI/UX (themes, layout)

@@ -1,6 +1,6 @@
 # Comparing data
 
-**The purpose of this part of the project is to compare the flight simulation data with the weather data, to find weather conditions optimal for launch**
+**The purpose of this part of the project is to compare the flight simulation data with the weather data, to find weather conditions optimal for launch.**
 
 
 ## Flight simulation data

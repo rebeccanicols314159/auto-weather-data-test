@@ -9,13 +9,13 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:42 PM,9,48,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,4,6,17,NNE,0.0,0.0,87,10,6,1019,30,47
+09:43 PM,9,47,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,4,6,28,NNE,0.0,0.0,84,10,6,1020,30,43
 2026-05-08,12,54,7,44,05:20 AM,09:01 PM,02:45 AM,09:55 AM,Waning Gibbous,68
-2026-05-08,0,7,44,10,15,173,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,87,10,6,1014,30,37,7,44,5,40,4,39,20,33,4,39,0,85,0,38,83,0,0,0,0,0
-2026-05-08,300,7,45,10,17,174,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,85,10,6,1014,30,49,7,45,5,41,4,40,20,32,4,40,0,90,0,48,84,0,0,0,0,0
-2026-05-08,600,7,45,9,15,174,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,89,10,6,1015,30,36,7,45,5,42,4,40,17,28,4,40,0,89,0,41,74,0,0,0,0,0
-2026-05-08,900,11,51,11,18,204,SSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,77,10,6,1016,30,60,11,51,7,44,8,47,14,23,8,47,80,0,0,86,0,0,0,0,0,0
+2026-05-08,0,7,44,10,15,173,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,87,10,6,1014,30,37,7,44,5,40,4,39,20,33,4,39,0,87,0,33,85,0,0,0,0,0
+2026-05-08,300,7,45,10,17,174,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,85,10,6,1014,30,49,7,45,5,41,4,40,20,32,4,40,0,83,0,30,87,0,0,0,0,0
+2026-05-08,600,7,45,9,15,174,S,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,89,10,6,1015,30,36,7,45,5,42,4,40,17,28,4,40,0,81,0,38,87,0,0,0,0,0
+2026-05-08,900,11,51,11,18,204,SSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,77,10,6,1016,30,60,11,51,7,44,8,47,14,23,8,47,80,0,0,84,0,0,0,0,0,0
 2026-05-08,1200,12,54,13,20,222,SW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,69,10,6,1016,30,67,12,54,7,44,10,51,15,25,10,51,86,0,0,92,0,0,0,0,0,0
-2026-05-08,1500,12,54,11,18,245,WSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,72,10,6,1017,30,71,12,54,7,45,10,51,14,22,10,51,78,0,0,93,0,0,0,0,0,0
-2026-05-08,1800,11,52,4,6,262,W,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,76,10,6,1018,30,30,11,52,7,45,11,51,6,9,11,51,0,87,0,46,84,0,0,0,0,0
-2026-05-08,2100,9,48,4,6,17,NNE,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,87,10,6,1019,30,47,9,48,7,44,8,47,7,12,8,47,0,91,0,40,87,0,0,0,0,0
+2026-05-08,1500,12,54,11,18,245,WSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,72,10,6,1017,30,71,12,54,7,45,10,51,14,22,10,51,78,0,0,89,0,0,0,0,0,0
+2026-05-08,1800,11,53,4,6,262,W,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,74,10,6,1018,30,24,11,53,7,44,11,52,5,8,11,52,0,83,0,0,92,0,0,0,0,0
+2026-05-08,2100,9,48,3,5,46,NE,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,82,10,6,1019,30,43,9,48,6,43,9,48,6,9,9,48,0,86,0,48,76,0,0,0,0,0

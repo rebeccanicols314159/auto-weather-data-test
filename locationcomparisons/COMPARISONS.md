@@ -22,11 +22,12 @@ Consists of a python script:
 - Creates a list of timestamps of times at which weather data was collected using strptime in the datetime module.
 - Creates a similar list of simulation times.
 - For each simulation time, finds the closest weather data collection using abs and datetime.
-- Outputs the result as a dictionary named times, where keys are the simulation times and values are weather data times.
+- Stores the result as a dictionary named times, where keys are the simulation times and values are weather data times.
+- Outputs this data to a json file [./flightdata/TempDataStorage.json](./flightdata/TempDataStorage.json), currently stored in [./flightdata](./flightdata/)
 
 # Data collecting
 
-Consists of a python script [](timestodata.py)
+Consists of a python script [timestodata.py](timestodata.py)
 - 
 
 ## To do:

@@ -3,6 +3,7 @@ import os
 import json
 
 JSONFILENAME = 'SeaPredictions.json'
+TEMPFILENAME = 'TempDataStorage.json'
 
 def getweatherdates():
     os.chdir(f'{os.getcwd()}/data_files')
@@ -65,20 +66,16 @@ def nearest_time(target_time, time_list):
     return res
 
 
-# Example usage:
-'''Target = datetime(2024, 6, 1, 12, 0)
-Times = [datetime(2024, 6, 1, 11, 0), datetime(2024, 6, 1, 12, 30), datetime(2024, 6, 1, 13, 0)]
-
-print("Target time:", Target)
-print("Time list:", Times)
-nearest = nearest_time(Target, Times)
-print("Nearest time:", nearest)'''
-
 wdates = getweatherdates()
 simdates = getsimulationdates()
 
 times = {}
 for i in simdates:
-    times[i] = nearest_time(i,wdates)
+    times[str(i)] = nearest_time(i,wdates).isoformat()
 
-print(times)
+#print(times)
+jsondata = json.dumps(times, indent=4, default=str)
+print(jsondata)
+
+with open(TEMPFILENAME,"w") as f:
+    f.write(jsondata)

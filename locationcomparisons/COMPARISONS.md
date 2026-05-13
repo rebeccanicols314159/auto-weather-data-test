@@ -24,7 +24,13 @@ Consists of a python script:
 - For each simulation time, finds the closest weather data collection using abs and datetime.
 - Outputs the result as a dictionary named times, where keys are the simulation times and values are weather data times.
 
+# Data collecting
+
+Consists of a python script [](timestodata.py)
+- 
+
 ## To do:
 
-- Collect as json all data from each timestamp.
+- Finish Data collecting section above
+- Finish timestodata to extract in a good format, find missing data etc.
 - Visualise - plotly (js/html?)

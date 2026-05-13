@@ -25,7 +25,7 @@ Consists of a python script:
 - Stores the result as a dictionary named times, where keys are the simulation times and values are weather data times.
 - Outputs this data to a json file [./flightdata/TempDataStorage.json](./flightdata/TempDataStorage.json), currently stored in [./flightdata](./flightdata/)
 
-# Data collecting
+## Data collecting
 
 Consists of a python script [timestodata.py](timestodata.py)
 - 

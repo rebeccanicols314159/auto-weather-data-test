@@ -9,7 +9,7 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:32 PM,7,45,266,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0017_cloudy_with_light_rain.png,Light drizzle,5,8,137,SE,0.5,0.0,94,2,1,1003,30,100
+09:28 PM,8,46,266,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0033_cloudy_with_light_rain_night.png,Light drizzle,4,6,147,SSE,0.3,0.0,94,2,1,1004,30,100
 2026-05-16,10,50,4,39,05:05 AM,09:16 PM,04:13 AM,09:43 PM,New Moon,1
 2026-05-16,0,5,41,6,9,289,WNW,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,81,10,6,1008,30,60,5,41,2,35,3,37,11,18,3,37,0,85,0,48,70,0,0,0,0,0
 2026-05-16,300,4,39,2,4,240,WSW,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,0.0,0.0,85,10,6,1007,30,44,4,39,2,35,3,38,5,8,3,38,0,90,0,35,73,0,0,0,0,0

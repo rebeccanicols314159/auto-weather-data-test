@@ -46,5 +46,9 @@ for i in weatherdata:
 # Function
 #print(wdataformatted)
 print(combinelists(weathertimes,wdataformatted))
+x = combinelists(weathertimes,wdataformatted)
 #To json
 
+os.chdir(f"{RTDIR}/locationcomparisons")
+with open(FILENAME,"w") as f:
+    f.write(json.dumps(x))

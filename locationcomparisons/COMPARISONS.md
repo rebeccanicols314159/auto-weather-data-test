@@ -28,7 +28,8 @@ Consists of a python script:
 ## Data collecting
 
 Consists of a python script [timestodata.py](timestodata.py)
-- 
+- Yeah
+
 
 ## To do:
 

@@ -27,12 +27,19 @@ Consists of a python script:
 
 ## Data collecting
 
-Consists of a python script [timestodata.py](timestodata.py)
-- Yeah
+Consists of a python script [times_to_data.py](times_to_data.py)
+- Fill this in later
+
+## Creating a table
+
+3 files stored in [./Tablepage](./Tablepage/)
+- Uses an async function to extract json data.
+- Plots a table which is drawn on html.
 
 
 ## To do:
 
-- Finish Data collecting section above
+- Finish README sections above.
 - Finish timestodata to extract in a good format, find missing data etc.
+- Fix table formatting.
 - Visualise - plotly (js/html?)

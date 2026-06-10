@@ -43,3 +43,4 @@ Consists of a python script [times_to_data.py](times_to_data.py)
 - Finish timestodata to extract in a good format, find missing data etc.
 - Fix table formatting.
 - Visualise - plotly (js/html?)
+- Create stats on data

@@ -48,7 +48,6 @@ function generateTable(data) {
     
     //Rows
     const rowData = Object.entries(data)
-    console.log(rowData)
     rowData.forEach(item=> {
         //const makeRow = [["Date and time",item[0]]].concat(Object.entries(item[1]))
         const makeRow = item[1]
@@ -56,9 +55,9 @@ function generateTable(data) {
         const row = document.createElement('tr');
         keys.forEach(key => {
             const td = document.createElement('td')
-            console.log(typeof key)
-            console.log(typeof makeRow)
-            console.log(makeRow[key])
+            //console.log(typeof key)
+            //console.log(typeof makeRow)
+            //console.log(makeRow[key])
             td.textContent = makeRow[key] || ""; //Apparently this will fill empty table fields with a blank
             //console.log(item[0].concat(Object.entries(item[1])))
             row.appendChild(td);
@@ -75,7 +74,7 @@ async function doThing(params) {
     try {
         const response = await fetch('https://raw.githubusercontent.com/rebeccanicols314159/auto-weather-data-test/dataprocessing/locationcomparisons/SeaWeather.json')
         const jsonData = await response.json();
-        console.log(jsonData)
+        //console.log(jsonData)
         const table = generateTable(jsonData);
         if (table) container.appendChild(table);
     }   catch (error) {

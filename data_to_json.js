@@ -1,3 +1,7 @@
+/* This code is no longer in use 
+due to its issue with time zones/daylight saving time.
+It has been replaced by a .py file of the same name.*/
+
 const fs = require("fs");
 const path = require("path");
 

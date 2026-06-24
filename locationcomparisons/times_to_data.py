@@ -16,8 +16,9 @@ def combinelists(times,weather):
     bigdict = {}
 
     for i in times.keys():
-        try: bigdict[i] = weather[times[i]]
-        except: bigdict[i] = "NOTFOUND"
+        bigdict[i] = weather[times[i]]
+        '''try: bigdict[i] = weather[times[i]]
+        except: bigdict[i] = "NOTFOUND"'''
 
     return bigdict
 
@@ -41,12 +42,13 @@ wdataformatted = {}
 for i in weatherdata:
     j = i.copy()
     j.popitem()
-    wdataformatted[i["time"][:-5]] = j
+    wdataformatted[i["time"]] = j#wdataformatted[i["time"][:-5]] = j
 
 # Function
 #print(wdataformatted)
 print(combinelists(weathertimes,wdataformatted))
 x = combinelists(weathertimes,wdataformatted)
+print(x)
 #To json
 
 os.chdir(f"{RTDIR}/locationcomparisons")

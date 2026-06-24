@@ -40,7 +40,6 @@ Consists of a python script [times_to_data.py](times_to_data.py)
 ## To do:
 
 - Finish README sections above.
-- Finish timestodata to extract in a good format, find missing data etc.
-- Fix table formatting.
+- Update main README
 - Visualise - plotly (js/html?)
 - Create stats on data

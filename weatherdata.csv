@@ -9,7 +9,7 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:46 PM,13,56,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,13,21,276,W,0.0,0.0,76,10,6,1026,30,90
+09:53 PM,12,54,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Partly Cloudy ,12,19,267,W,0.0,0.0,78,10,6,1026,30,42
 2026-07-02,17,62,12,53,04:41 AM,09:53 PM,11:28 PM,06:51 AM,Waning Gibbous,96
 2026-07-02,0,15,58,26,41,223,SW,353,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Light rain shower,0.2,0.0,97,10,6,1013,30,100,15,58,14,57,12,54,40,64,12,54,50,40,25,98,9,0,1,0,0,0
 2026-07-02,300,13,56,26,41,251,WSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.0,0.0,92,10,6,1013,30,98,13,56,12,53,10,50,37,60,10,50,35,52,22,97,0,0,1,0,0,0

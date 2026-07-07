@@ -9,13 +9,13 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:18 PM,16,62,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,9,15,223,SW,0.0,0.0,89,10,6,1017,30,100
-2026-07-07,18,64,14,58,04:46 AM,09:50 PM,12:01 AM,01:33 PM,Last Quarter,59
+09:45 PM,16,61,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,9,14,217,SW,0.0,0.0,85,10,6,1018,30,100
+2026-07-07,17,63,14,58,04:46 AM,09:50 PM,12:01 AM,01:33 PM,Last Quarter,59
 2026-07-07,0,15,59,11,18,225,SW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,93,10,6,1013,30,23,15,59,14,56,14,56,22,36,14,56,16,74,2,5,76,0,1,0,0,0
 2026-07-07,300,14,58,14,23,238,WSW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,91,10,6,1013,30,100,14,58,13,55,13,55,23,38,13,55,31,55,2,98,0,0,1,0,0,0
 2026-07-07,600,14,58,15,23,243,WSW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,92,10,6,1014,30,100,14,58,13,56,13,55,21,33,13,55,31,55,2,98,0,0,1,0,0,0
 2026-07-07,900,15,60,14,23,230,SW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,90,10,6,1015,30,99,15,60,14,57,15,60,18,30,15,60,29,56,2,98,0,0,1,0,0,0
 2026-07-07,1200,15,59,15,23,229,SW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,91,10,6,1016,30,100,15,59,14,56,13,56,20,32,13,56,31,55,2,98,0,0,1,0,0,0
 2026-07-07,1500,15,59,13,20,228,SW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,95,10,6,1017,30,100,15,59,14,58,15,59,18,29,15,59,34,52,2,98,0,0,1,0,0,0
-2026-07-07,1800,18,64,9,15,234,SW,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,86,10,6,1017,30,33,18,64,15,59,18,64,13,22,18,64,15,75,1,10,55,0,1,0,0,0
-2026-07-07,2100,16,62,9,15,223,SW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,89,10,6,1017,30,100,16,62,15,58,16,62,16,26,16,62,29,56,1,98,0,0,1,0,0,0
+2026-07-07,1800,17,62,10,16,231,SW,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,0.0,0.0,87,10,6,1017,30,35,17,62,15,58,17,62,14,23,17,62,15,75,1,11,51,0,1,0,0,0
+2026-07-07,2100,16,61,9,14,222,SW,122,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png,Overcast ,0.0,0.0,88,10,6,1018,30,100,16,61,14,58,16,61,15,25,16,61,28,57,1,98,0,0,1,0,0,0

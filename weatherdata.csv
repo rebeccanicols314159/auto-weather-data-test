@@ -9,13 +9,13 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-08:23 AM,13,56,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,7,12,161,SSE,0.0,0.0,91,10,6,1005,30,5
+03:00 PM,17,63,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,14,22,188,S,0.0,0.0,65,10,6,1007,30,4
 2026-09-30,18,65,12,53,07:14 AM,06:52 PM,07:38 PM,12:47 PM,Waning Gibbous,87
 2026-09-30,0,18,65,10,16,129,SE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.0,0.0,82,10,6,1005,30,100,18,65,15,59,18,65,21,34,18,65,26,67,2,98,0,0,7,0,0,0
 2026-09-30,300,17,63,10,15,118,ESE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.0,0.0,88,10,6,1002,30,100,17,63,15,59,17,63,19,31,17,63,30,55,2,98,0,0,5,0,0,0
 2026-09-30,600,17,63,13,20,147,SSE,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png,Patchy rain nearby,0.1,0.0,88,10,6,1001,30,100,17,63,15,59,17,63,30,48,17,63,34,52,2,98,0,0,5,0,0,0
 2026-09-30,900,13,56,7,12,161,SSE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,91,10,6,1005,30,5,13,56,12,53,12,54,17,27,12,54,14,76,1,1,96,0,1,0,0,0
-2026-09-30,1200,17,62,13,21,182,S,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.3,0.0,69,10,6,1007,30,83,17,62,11,52,17,62,31,50,17,62,36,52,3,88,8,0,2,0,0,0
-2026-09-30,1500,17,62,16,26,190,S,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,68,10,6,1009,30,81,17,62,11,52,17,62,30,48,17,62,14,77,4,86,3,0,1,0,0,0
-2026-09-30,1800,14,58,9,15,194,SSW,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,75,10,6,1011,30,89,14,58,10,50,13,56,18,30,13,56,19,73,2,93,2,0,1,0,0,0
-2026-09-30,2100,12,54,5,9,162,SSE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,85,10,6,1013,30,5,12,54,10,49,11,53,6,10,11,53,11,89,1,1,0,0,1,0,0,0
+2026-09-30,1200,17,62,11,17,183,S,176,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0009_light_rain_showers.png,Patchy rain nearby,0.0,0.0,68,10,6,1006,30,89,17,62,11,51,17,62,23,36,17,62,19,73,2,93,2,0,3,0,0,0
+2026-09-30,1500,17,63,14,22,188,S,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,65,10,6,1007,30,4,17,63,11,51,17,63,28,45,17,63,5,96,3,1,97,0,3,0,0,0
+2026-09-30,1800,15,59,10,16,196,SSW,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,0.0,0.0,74,10,6,1009,30,6,15,59,10,51,14,57,20,33,14,57,7,93,2,1,96,0,1,0,0,0
+2026-09-30,2100,12,54,6,10,170,S,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,87,10,6,1011,30,21,12,54,10,50,11,52,9,15,11,52,14,76,1,5,0,0,1,0,0,0

@@ -9,7 +9,7 @@
 #Hourly information follows below the day in the following way:-
 #date,time,tempC,tempF,windspeedMiles,windspeedKmph,winddirdegree,winddir16point,weatherCode,weatherIconUrl,weatherDesc,precipMM,precipInches,humidity,visibilityKm,visibilityMiles,pressureMB,pressureInches,cloudcover,HeatIndexC,HeatIndexF,DewPointC,DewPointF,WindChillC,WindChillF,WindGustMiles,WindGustKmph,FeelsLikeC,FeelsLikeF,chanceofrain,chanceofremdry,chanceofwindy,chanceofovercast,chanceofsunshine,chanceoffrost,chanceofhightemp,chanceoffog,chanceofsnow,chanceofthunder
 #
-03:44 PM,10,50,116,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png,Partly Cloudy ,5,8,31,NNE,0.0,0.0,66,10,6,1037,31,40
+05:58 PM,6,43,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png,Sunny,4,6,27,NNE,0.0,0.0,76,10,6,1038,31,17
 2026-10-17,10,50,3,37,07:46 AM,06:10 PM,03:26 PM,09:42 PM,Waxing Crescent,34
 2026-10-17,0,5,41,2,4,355,N,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,91,10,6,1033,30,7,5,41,4,39,5,41,3,4,5,41,14,76,0,1,0,1,1,0,0,0
 2026-10-17,300,4,39,2,3,39,NE,113,https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png,Clear ,0.0,0.0,92,10,6,1034,31,5,4,39,3,37,4,39,2,3,4,39,14,75,0,1,0,3,1,0,13,0
